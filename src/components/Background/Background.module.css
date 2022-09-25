@@ -17,7 +17,8 @@
 
 .alpha {
     composes: backgroundItems;
-    background: transparent url(/src/Images/alpha.png) repeat top center;
+    background: transparent url(/src/Images/alpha.png) repeat ;
+
     z-index: -2;
     animation: stargazing 500s linear infinite;
 }
